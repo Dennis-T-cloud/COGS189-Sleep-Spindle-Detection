@@ -11,8 +11,7 @@ Automated pipeline for detecting Sleep Spindles in NREM sleep using the ds000201
 
     in your local VS Code (Terminal). I've also uploaded a draft_pipeline.ipynb containing the initial signal processing logic (11-16 Hz band-pass filter).
 
-    proposal doc: 
-    https://docs.google.com/document/d/1lLJhXjg3Ygftyn3R03wnejl5A9Q4btqbOSzXj6YAyFE/edit?usp=sharing
+* **Project Proposal**: [Google Doc Link](https://docs.google.com/document/d/1lLJhXjg3Ygftyn3R03wnejl5A9Q4btqbOSzXj6YAyFE/edit?usp=sharing)
 
 ## Data Acquisition Status (Updated)
 
@@ -51,7 +50,7 @@ Automated pipeline for detecting Sleep Spindles in NREM sleep using the ds000201
 
 ## 5. Team & Roles (Overthinking)
 
-    Dennis Sun (Manager): Lead for Data Acquisition and Algorithm Development.
+    Dennis Sun: Lead for Data Acquisition and Algorithm Development.
 
     Evelyn Zhang: Algorithm Development & Signal Processing Pipeline.
 

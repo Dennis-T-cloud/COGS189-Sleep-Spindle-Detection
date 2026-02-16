@@ -47,6 +47,7 @@ Automated pipeline for detecting Sleep Spindles in NREM sleep using the ds000201
 │   └── detection.py     # Spindle identification algorithm
 ├── README.md           # Project documentation
 └── requirements.txt    # Dependencies (mne, numpy, scipy, pandas)
+```
 
 ## 5. Team & Roles (Overthinking)
 
